@@ -1,15 +1,18 @@
 
 h1 {
+    background-color: rgb(212, 112, 112) ;
     border: 3px solid green;
     text-align: center;
-    margin-bottom: 700px ;
-  }
+    margin-bottom:  70px ;
+    padding: 30px ;
+}
 
-*  {
-    background-color : rgb(212, 112, 112)
+body {
+    background-color : rgb(212, 112, 112) ;
+    font-family: 'Genos', sans-serif;
     text-align: center;
     text-size-adjust: 65px ;
-    margin-top: 70px ;
-    margin-bottom: 400px ;
+    margin-top: 60px ;
+    margin-bottom: 60px ;
 }
 
