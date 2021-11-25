@@ -8,10 +8,10 @@ h1 {
 * {
     background-color : rgb(212, 112, 112);
 }
-.body {
-    background-color: rgb(121, 121, 204); 
+.body { 
     text-align: center;
     text-size-adjust: 65px ;
+    margin-top: 70px ;
     margin-bottom: 400px ;
 }
 
