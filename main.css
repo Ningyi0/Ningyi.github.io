@@ -11,8 +11,27 @@ body {
     background-color : rgb(212, 112, 112) ;
     font-family: 'Genos', sans-serif;
     text-align: center;
-    text-size-adjust: 65px ;
-    margin-top: 60px ;
-    margin-bottom: 60px ;
+    text-size-adjust: 90px ;
+    margin-top: 20px ;
+    margin-bottom: 20px ;
 }
 
+ .cloud-button {
+    font-size: 25px ;
+    font-style: italic ;
+    padding: 30px ;
+    text-align: centre ;
+    border: 3px solid green ;
+    margin-top: 100px ;
+    margin-bottom: 50px ;
+}
+.rain-button {
+    font-size: 25px ;
+    font-style: italic ;
+    padding: 30px ;
+    text-align: centre ;
+    border: 3px solid green ;
+    margin-top: 7000px ;
+    margin-bottom: 1000px ;
+    bottom: 50px ;
+}
