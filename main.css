@@ -16,7 +16,8 @@ body {
     margin-bottom: 20px ;
 }
 
- .cloud-button {
+ .div cloud-button {
+    font-family: 'Genos', sans-serif;
     font-size: 25px ;
     font-style: italic ;
     padding: 30px ;
@@ -25,13 +26,14 @@ body {
     margin-top: 100px ;
     margin-bottom: 50px ;
 }
-.rain-button {
+.div rain-button {
+    font-family: 'Genos', sans-serif;
     font-size: 25px ;
     font-style: italic ;
     padding: 30px ;
     text-align: centre ;
     border: 3px solid green ;
     margin-top: 7000px ;
-    margin-bottom: 1000px ;
-    bottom: 50px ;
+    margin-bottom: 100px ;
+    bottom: 500px ;
 }
