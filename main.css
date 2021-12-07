@@ -1,39 +1,45 @@
 
 h1 {
-    background-color: rgb(212, 112, 112) ;
+    background-color: rgba(137, 194, 196, 0.863) ;
     border: 3px solid green;
     text-align: center;
-    margin-bottom:  70px ;
-    padding: 30px ;
 }
 
 body {
-    background-color : rgb(212, 112, 112) ;
+    background-color : rgb(167, 132, 132) ;
     font-family: 'Genos', sans-serif;
     text-align: center;
-    text-size-adjust: 90px ;
-    margin-top: 20px ;
-    margin-bottom: 20px ;
+
 }
 
- .div cloud-button {
+.cloud-button {
     font-family: 'Genos', sans-serif;
     font-size: 25px ;
     font-style: italic ;
     padding: 30px ;
     text-align: centre ;
-    border: 3px solid green ;
-    margin-top: 100px ;
-    margin-bottom: 50px ;
 }
-.div rain-button {
+
+.rain-button {
     font-family: 'Genos', sans-serif;
     font-size: 25px ;
     font-style: italic ;
     padding: 30px ;
     text-align: centre ;
-    border: 3px solid green ;
-    margin-top: 7000px ;
-    margin-bottom: 100px ;
-    bottom: 500px ;
+}
+
+.moon-button {
+    font-family: 'Genos', sans-serif;
+    font-size: 25px ;
+    font-style: italic ;
+    padding: 30px ;
+    text-align: centre ;
+}
+
+.mist-button {
+    font-family: 'Genos', sans-serif;
+    font-size: 25px ;
+    font-style: italic ;
+    padding: 30px ;
+    text-align: centre ;
 }
