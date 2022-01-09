@@ -1,6 +1,6 @@
 
 h1 {
-    background-color: rgba(137, 194, 196, 0.863) ;
+    background-color: rgb(198, 198, 245) ;
     border: 3px solid green;
     text-align: center;
 }
@@ -9,37 +9,80 @@ body {
     background-color : rgb(167, 132, 132) ;
     font-family: 'Genos', sans-serif;
     text-align: center;
-
+    font-size: 30px ;
 }
 
-.cloud-button {
-    font-family: 'Genos', sans-serif;
-    font-size: 25px ;
-    font-style: italic ;
-    padding: 30px ;
-    text-align: centre ;
+hr {
+    border: 3px solid rgb(54, 87, 109) ;
+    border-bottom: 8px ;
 }
 
-.rain-button {
+.identity-values {
     font-family: 'Genos', sans-serif;
-    font-size: 25px ;
+    font-size: 30px ;
     font-style: italic ;
-    padding: 30px ;
     text-align: centre ;
+    border: 5px solid rgb(198, 198, 245) ;
+    margin: 9px ;
+    padding: 4px ;
 }
 
-.moon-button {
+.learning-plan {
     font-family: 'Genos', sans-serif;
-    font-size: 25px ;
+    font-size: 30px ;
     font-style: italic ;
-    padding: 30px ;
-    text-align: centre ;
+    text-align: centre;
+    border: 5px solid rgb(54, 54, 230) ;
+    margin: 3px ;
+    padding: 4px ;
 }
 
-.mist-button {
+.research-question {
     font-family: 'Genos', sans-serif;
-    font-size: 25px ;
+    font-size: 30px ;
     font-style: italic ;
-    padding: 30px ;
     text-align: centre ;
+    border: 5px solid rgb(198, 198, 245) ;
+    margin: 3px ;
+    padding: 4px ;
+}
+
+.Technical-Blog-JS-Fundamentals {
+    font-family: 'Genos', sans-serif;
+    font-size: 30px ;
+    font-style: italic ;
+    text-align: centre ;
+    border: 5px solid rgb(54, 54, 230) ;
+    margin: 3px ;
+    padding: 4px ;
+}
+
+.Mindset {
+    font-family: 'Genos', sans-serif;
+    font-size: 30px ;
+    font-style: italic ;
+    text-align: centre ;
+    border: 5px solid rgb(198, 198, 245) ;
+    margin: 3px ;
+    padding: 4px ;
+}
+
+.Minesweeper {
+    font-family: 'Genos', sans-serif;
+    font-size: 30px ;
+    font-style: italic ;
+    text-align: centre ;
+    border: 5px solid rgb(54, 54, 230) ;
+    margin: 3px ;
+    padding: 4px ;
+}
+
+.foundations-reflection {
+    font-family: 'Genos', sans-serif;
+    font-size: 30px ;
+    font-style: italic ;
+    text-align: centre ;
+    border: 5px solid rgb(198, 198, 245) ;
+    margin: 3px ;
+    padding: 4px ;
 }
